@@ -1,0 +1,4 @@
+2022-05-14T06:27:24+00:00 CRITICAL syntax error, unexpected identifier "add_action", expecting "function" or "const" dans /Users/eliott/Applications/ecv/wordpress-v1/wp-content/plugins/wparoma/admin/class-wparoma-admin.php à la ligne 149
+
+2022-05-14T06:27:35+00:00 CRITICAL syntax error, unexpected identifier "add_action", expecting "function" or "const" dans /Users/eliott/Applications/ecv/wordpress-v1/wp-content/plugins/wparoma/admin/class-wparoma-admin.php à la ligne 149
+
